@@ -1,0 +1,16 @@
+Mapping out shopping application
+
+Tables
+- Users
+- Products
+- Reviews
+- Orders
+- Order Items
+
+Decide what fields would be needed in each table
+
+Implement Dataloader and ensure it actually reduces the number of queries
+
+Add in more tables and update tables with more fields
+
+Authentication to come later

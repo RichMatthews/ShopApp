@@ -1,0 +1,7 @@
+
+# App artifacts
+/db
+/deps
+/_deploy
+
+/.next
