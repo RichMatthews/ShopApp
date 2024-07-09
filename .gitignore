@@ -1,7 +1,3 @@
 
-# App artifacts
-/db
-/deps
-/_deploy
-
 /.next
+node_modules
